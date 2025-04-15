@@ -1,6 +1,6 @@
 {
-  "version": "v20.07.39 (patches: 5.19.1)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/passakorn01/Biz/releases/download/9/youtube-revanced-magisk-v20.07.39-all.zip",
+  "version": "v20.07.39 (patches: 5.20.0)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/passakorn01/Biz/releases/download/10/youtube-revanced-magisk-v20.07.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/passakorn01/Biz/update/build.md"
 }
